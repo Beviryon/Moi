@@ -1,4 +1,4 @@
-import { c as buildAssetsURL } from '../_/nitro.mjs';
+import { b as buildAssetsURL } from '../_/nitro.mjs';
 import 'unified';
 import 'remark-parse';
 import 'remark-rehype';
