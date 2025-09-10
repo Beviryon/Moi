@@ -4,10 +4,10 @@
   "description": "Modern portfolio website for Beviryon Issanga Ngoulou - Fullstack Developer",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "build": "npx nuxt build",
+    "dev": "npx nuxt dev",
+    "generate": "npx nuxt generate",
+    "preview": "npx nuxt preview"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
