@@ -1,1 +1,16 @@
-{"parsed":{"_path":"/blog/test-article","_dir":"blog","_draft":false,"_partial":false,"_locale":"","title":"Test Article","description":"Article de test pour vérifier le fonctionnement du blog","date":"2025-01-27","author":"Beviryon Issanga Ngoulou","tags":["test","blog"],"image":"/blog/test.jpg","body":{"type":"root","children":[{"type":"element","tag":"h1","props":{"id":"test-article"},"children":[{"type":"text","value":"Test Article"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Ceci est un article de test pour vérifier que le blog fonctionne correctement."}]},{"type":"element","tag":"h2","props":{"id":"contenu-de-test"},"children":[{"type":"text","value":"Contenu de test"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Voici du contenu de test pour voir si l'article s'affiche bien."}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[{"id":"contenu-de-test","depth":2,"text":"Contenu de test"}]}},"_type":"markdown","_id":"content:blog:test-article.md","_source":"content","_file":"blog/test-article.md","_stem":"blog/test-article","_extension":"md"},"hash":"fCg2kdfgk5"}
+---
+title: "Test Article"
+description: "Article de test pour vérifier le fonctionnement du blog"
+date: 2025-01-27
+author: "Beviryon Issanga Ngoulou"
+tags: ["test", "blog"]
+image: "/blog/test.jpg"
+---
+
+# Test Article
+
+Ceci est un article de test pour vérifier que le blog fonctionne correctement.
+
+## Contenu de test
+
+Voici du contenu de test pour voir si l'article s'affiche bien.

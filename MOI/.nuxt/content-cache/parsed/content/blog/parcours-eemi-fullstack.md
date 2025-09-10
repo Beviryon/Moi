@@ -1,1 +1,206 @@
-{"parsed":{"_path":"/blog/parcours-eemi-fullstack","_dir":"blog","_draft":false,"_partial":false,"_locale":"","title":"De EEMI à développeur fullstack : mon parcours","description":"Récit de mon parcours académique et professionnel, de mes études à l'EEMI jusqu'à mon rôle de développeur fullstack. Découvrez les défis, les apprentissages et les projets qui ont façonné ma carrière.","date":"2025-01-27","author":"Beviryon Issanga Ngoulou","tags":["Career","Education","Fullstack","Journey","EEMI","Personal"],"image":"/blog/parcours-eemi-fullstack.jpg","body":{"type":"root","children":[{"type":"element","tag":"h1","props":{"id":"de-eemi-à-développeur-fullstack-mon-parcours"},"children":[{"type":"text","value":"De EEMI à développeur fullstack : mon parcours"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Bonjour ! Je suis "},{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Beviryon Issanga Ngoulou"}]},{"type":"text","value":", développeur fullstack passionné par la création d'expériences web modernes. Dans cet article, je vais vous raconter mon parcours, de mes études à l'EEMI jusqu'à mon rôle actuel de développeur fullstack, en passant par mes expériences professionnelles et les projets qui ont marqué ma carrière."}]},{"type":"element","tag":"h2","props":{"id":"mes-débuts-académiques"},"children":[{"type":"text","value":"🎓 Mes débuts académiques"}]},{"type":"element","tag":"h3","props":{"id":"leemi-une-école-qui-forme-lavenir-digital"},"children":[{"type":"text","value":"L'EEMI : une école qui forme l'avenir digital"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Mon parcours a commencé à l'"},{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"École Européenne des Métiers de l'Internet (EEMI)"}]},{"type":"text","value":", où j'ai suivi le "},{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Bachelor 3 Chef de projets digitaux"}]},{"type":"text","value":" de 2023 à 2024. Cette formation m'a donné une vision complète du monde digital et m'a permis d'acquérir des compétences essentielles :"}]},{"type":"element","tag":"h4","props":{"id":"compétences-techniques-acquises"},"children":[{"type":"text","value":"Compétences techniques acquises :"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Backend Flask"}]},{"type":"text","value":" : Développement d'APIs robustes"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Framework SASS"}]},{"type":"text","value":" : Styling avancé et architecture CSS"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Linux"}]},{"type":"text","value":" : Administration système et environnement de développement"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Docker"}]},{"type":"text","value":" : Containerisation et déploiement"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Git"}]},{"type":"text","value":" : Gestion de versions et collaboration"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Modélisation UML"}]},{"type":"text","value":" : Conception et architecture logicielle"}]}]},{"type":"element","tag":"h3","props":{"id":"master-tech-full-stack-approfondissement-technique"},"children":[{"type":"text","value":"Master Tech Full Stack : approfondissement technique"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Actuellement, je poursuis mes études avec le "},{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Master Tech Full Stack"}]},{"type":"text","value":", une formation qui me permet d'approfondir mes compétences techniques :"}]},{"type":"element","tag":"h4","props":{"id":"technologies-maîtrisées"},"children":[{"type":"text","value":"Technologies maîtrisées :"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Frontend"}]},{"type":"text","value":" : Angular, React"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Backend"}]},{"type":"text","value":" : Django, Node.js"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Mobile"}]},{"type":"text","value":" : Flutter"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Système"}]},{"type":"text","value":" : Go"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Architecture"}]},{"type":"text","value":" : Architecture logicielle, DevOps"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Sécurité"}]},{"type":"text","value":" : Cybersécurité"}]}]},{"type":"element","tag":"h2","props":{"id":"mon-expérience-professionnelle"},"children":[{"type":"text","value":"💼 Mon expérience professionnelle"}]},{"type":"element","tag":"h3","props":{"id":"développeur-full-stack-freelance-2024-présent"},"children":[{"type":"text","value":"Développeur Full Stack - Freelance (2024 - Présent)"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"En tant que développeur fullstack freelance, j'ai eu l'opportunité de travailler sur des projets variés et stimulants :"}]},{"type":"element","tag":"h4","props":{"id":"projets-réalisés"},"children":[{"type":"text","value":"Projets réalisés :"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Sites web corporate"}]},{"type":"text","value":" pour des entreprises"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Applications web"}]},{"type":"text","value":" avec authentification sécurisée"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Plateformes de formation"}]},{"type":"text","value":" (LMS)"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Sites e-commerce"}]},{"type":"text","value":" complets"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Applications PWA"}]},{"type":"text","value":" pour associations"}]}]},{"type":"element","tag":"h4","props":{"id":"compétences-développées"},"children":[{"type":"text","value":"Compétences développées :"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Gestion de projet"}]},{"type":"text","value":" : De la conception à la livraison"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Communication client"}]},{"type":"text","value":" : Compréhension des besoins métier"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Architecture technique"}]},{"type":"text","value":" : Choix des technologies appropriées"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Déploiement"}]},{"type":"text","value":" : Mise en production et maintenance"}]}]},{"type":"element","tag":"h3","props":{"id":"chef-de-projet-digital-gexsi-2023-2024"},"children":[{"type":"text","value":"Chef de Projet Digital - GEXSI (2023 - 2024)"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Mon expérience chez GEXSI m'a permis de développer mes compétences en gestion de projet et en traitement de données :"}]},{"type":"element","tag":"h4","props":{"id":"responsabilités"},"children":[{"type":"text","value":"Responsabilités :"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Gestion des réclamations"}]},{"type":"text","value":" et traitement des données"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Extraction et transformation"}]},{"type":"text","value":" avec Talend"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Analyse des données"}]},{"type":"text","value":" avec SQL et Excel"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Coordination d'équipe"}]},{"type":"text","value":" et suivi des projets"}]}]},{"type":"element","tag":"h4","props":{"id":"apprentissages-clés"},"children":[{"type":"text","value":"Apprentissages clés :"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Gestion de projet"}]},{"type":"text","value":" : Méthodologies agiles et traditionnelles"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Traitement de données"}]},{"type":"text","value":" : ETL et analyse"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Communication"}]},{"type":"text","value":" : Interface entre technique et métier"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Résolution de problèmes"}]},{"type":"text","value":" : Approche structurée"}]}]},{"type":"element","tag":"h2","props":{"id":"mes-projets-phares"},"children":[{"type":"text","value":"🚀 Mes projets phares"}]},{"type":"element","tag":"h3","props":{"id":"_1-trevixia-formation-plateforme-lms"},"children":[{"type":"text","value":"1. Trevixia Formation - Plateforme LMS"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Technologies"}]},{"type":"text","value":" : Next.js, TypeScript, TailwindCSS, Authentication, Database, JSON, Vercel"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Une plateforme de formation complète avec authentification sécurisée pour étudiants et administrateurs. Ce projet m'a permis d'approfondir mes compétences en développement fullstack et en gestion d'utilisateurs."}]},{"type":"element","tag":"p","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Défis relevés"}]},{"type":"text","value":" :"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Authentification dual (étudiants/administrateurs)"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Interface moderne et responsive"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Gestion sécurisée des sessions"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Optimisation des performances"}]}]},{"type":"element","tag":"h3","props":{"id":"_2-site-agence-immobilière-mvb"},"children":[{"type":"text","value":"2. Site Agence Immobilière MVB"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Technologies"}]},{"type":"text","value":" : Next.js, TypeScript, Strapi, PWA, Responsive Design"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Plateforme complète pour une agence immobilière avec interface moderne, navigation intuitive et fonctionnalités PWA. Ce projet a été l'occasion de travailler avec un CMS headless et de créer une expérience utilisateur optimale."}]},{"type":"element","tag":"p","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Points forts"}]},{"type":"text","value":" :"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Design professionnel et moderne"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Fonctionnalités PWA avancées"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Gestion complète des biens immobiliers"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Interface responsive"}]}]},{"type":"element","tag":"h3","props":{"id":"_3-flexbeat-association-sportive"},"children":[{"type":"text","value":"3. FlexBeat - Association Sportive"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Technologies"}]},{"type":"text","value":" : Vue.js, TypeScript, TailwindCSS, PWA, Vercel"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Site web moderne pour une association sportive à Brazzaville spécialisée dans le fitness, activités culturelles et cardio plein air. Ce projet m'a permis d'explorer les fonctionnalités PWA et de créer une interface énergique et engageante."}]},{"type":"element","tag":"p","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Innovations"}]},{"type":"text","value":" :"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Fonctionnalités PWA complètes"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Design adapté au secteur sportif"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Interface intuitive et moderne"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"text","value":"Déploiement optimisé"}]}]},{"type":"element","tag":"h2","props":{"id":"️-mon-stack-technique-actuel"},"children":[{"type":"text","value":"🛠️ Mon stack technique actuel"}]},{"type":"element","tag":"h3","props":{"id":"frontend"},"children":[{"type":"text","value":"Frontend"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Next.js 14"}]},{"type":"text","value":" : Framework React moderne avec App Router"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Vue.js 3"}]},{"type":"text","value":" : Framework progressif et réactif"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"TypeScript"}]},{"type":"text","value":" : Typage statique pour plus de robustesse"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"TailwindCSS"}]},{"type":"text","value":" : Framework CSS utilitaire"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"GSAP"}]},{"type":"text","value":" : Animations avancées et scroll triggers"}]}]},{"type":"element","tag":"h3","props":{"id":"backend"},"children":[{"type":"text","value":"Backend"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Node.js"}]},{"type":"text","value":" : Runtime JavaScript côté serveur"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Express"}]},{"type":"text","value":" : Framework web minimaliste"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Django"}]},{"type":"text","value":" : Framework Python puissant"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Flask"}]},{"type":"text","value":" : Micro-framework Python léger"}]}]},{"type":"element","tag":"h3","props":{"id":"base-de-données"},"children":[{"type":"text","value":"Base de données"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"SQL"}]},{"type":"text","value":" : Requêtes relationnelles"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Prisma"}]},{"type":"text","value":" : ORM moderne pour TypeScript"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Sequelize"}]},{"type":"text","value":" : ORM pour Node.js"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"JSON"}]},{"type":"text","value":" : Stockage de données léger"}]}]},{"type":"element","tag":"h3","props":{"id":"outils-et-déploiement"},"children":[{"type":"text","value":"Outils et déploiement"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Git"}]},{"type":"text","value":" : Contrôle de version"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Docker"}]},{"type":"text","value":" : Containerisation"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Vercel"}]},{"type":"text","value":" : Déploiement et hébergement"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Linux"}]},{"type":"text","value":" : Administration système"}]}]},{"type":"element","tag":"h2","props":{"id":"mes-objectifs-et-aspirations"},"children":[{"type":"text","value":"📈 Mes objectifs et aspirations"}]},{"type":"element","tag":"h3","props":{"id":"court-terme-2025"},"children":[{"type":"text","value":"Court terme (2025)"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Approfondir React"}]},{"type":"text","value":" : Server Components et nouvelles fonctionnalités"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Apprendre Rust"}]},{"type":"text","value":" : Langage système moderne"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Contribuer à l'open source"}]},{"type":"text","value":" : Participer à des projets communautaires"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Certifications"}]},{"type":"text","value":" : Obtenir des certifications techniques"}]}]},{"type":"element","tag":"h3","props":{"id":"moyen-terme-2025-2026"},"children":[{"type":"text","value":"Moyen terme (2025-2026)"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Architecture microservices"}]},{"type":"text","value":" : Maîtriser les architectures distribuées"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"DevOps avancé"}]},{"type":"text","value":" : CI/CD, monitoring, observabilité"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Leadership technique"}]},{"type":"text","value":" : Encadrer des équipes de développement"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Innovation"}]},{"type":"text","value":" : Développer des solutions innovantes"}]}]},{"type":"element","tag":"h3","props":{"id":"long-terme-2026"},"children":[{"type":"text","value":"Long terme (2026+)"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Création d'entreprise"}]},{"type":"text","value":" : Lancer ma propre startup tech"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Mentorat"}]},{"type":"text","value":" : Former la nouvelle génération de développeurs"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Conférences"}]},{"type":"text","value":" : Partager mes connaissances lors d'événements"}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Impact social"}]},{"type":"text","value":" : Utiliser la tech pour résoudre des problèmes sociaux"}]}]},{"type":"element","tag":"h2","props":{"id":"mes-conseils-pour-les-futurs-développeurs"},"children":[{"type":"text","value":"💡 Mes conseils pour les futurs développeurs"}]},{"type":"element","tag":"h3","props":{"id":"_1-apprendre-continuellement"},"children":[{"type":"text","value":"1. Apprendre continuellement"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"La technologie évolue rapidement. Il est essentiel de rester à jour avec les dernières tendances et d'apprendre de nouvelles technologies régulièrement."}]},{"type":"element","tag":"h3","props":{"id":"_2-pratiquer-régulièrement"},"children":[{"type":"text","value":"2. Pratiquer régulièrement"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"La théorie est importante, mais la pratique est cruciale. Créez des projets personnels, participez à des hackathons, contribuez à l'open source."}]},{"type":"element","tag":"h3","props":{"id":"_3-comprendre-les-besoins-métier"},"children":[{"type":"text","value":"3. Comprendre les besoins métier"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Un bon développeur ne se contente pas de coder. Il comprend les besoins métier et propose des solutions adaptées."}]},{"type":"element","tag":"h3","props":{"id":"_4-communiquer-efficacement"},"children":[{"type":"text","value":"4. Communiquer efficacement"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"La communication est essentielle, que ce soit avec les clients, les collègues ou la communauté. Apprenez à expliquer des concepts techniques de manière accessible."}]},{"type":"element","tag":"h3","props":{"id":"_5-se-spécialiser-progressivement"},"children":[{"type":"text","value":"5. Se spécialiser progressivement"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Commencez par être généraliste, puis spécialisez-vous dans des domaines qui vous passionnent."}]},{"type":"element","tag":"h2","props":{"id":"mes-valeurs-professionnelles"},"children":[{"type":"text","value":"🎯 Mes valeurs professionnelles"}]},{"type":"element","tag":"h3","props":{"id":"excellence-technique"},"children":[{"type":"text","value":"Excellence technique"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Je m'efforce de livrer du code de qualité, bien documenté et maintenable. Chaque projet est une opportunité d'apprendre et de s'améliorer."}]},{"type":"element","tag":"h3","props":{"id":"innovation"},"children":[{"type":"text","value":"Innovation"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"J'aime explorer de nouvelles technologies et approches pour résoudre des problèmes de manière créative et efficace."}]},{"type":"element","tag":"h3","props":{"id":"collaboration"},"children":[{"type":"text","value":"Collaboration"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Je crois en la force du travail d'équipe et en l'importance de partager les connaissances pour faire progresser collectivement."}]},{"type":"element","tag":"h3","props":{"id":"impact"},"children":[{"type":"text","value":"Impact"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Mon objectif est de créer des solutions qui ont un impact positif sur les utilisateurs et les entreprises."}]},{"type":"element","tag":"h2","props":{"id":"liens-utiles"},"children":[{"type":"text","value":"🔗 Liens utiles"}]},{"type":"element","tag":"ul","props":{},"children":[{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Portfolio"}]},{"type":"text","value":" : "},{"type":"element","tag":"a","props":{"href":"https://portfolio-beviryon.vercel.app/","rel":["nofollow"]},"children":[{"type":"text","value":"portfolio-beviryon.vercel.app"}]}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"GitHub"}]},{"type":"text","value":" : "},{"type":"element","tag":"a","props":{"href":"https://github.com/Beviryon","rel":["nofollow"]},"children":[{"type":"text","value":"github.com/Beviryon"}]}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"LinkedIn"}]},{"type":"text","value":" : "},{"type":"element","tag":"a","props":{"href":"https://linkedin.com/in/beviryon-ngoulou","rel":["nofollow"]},"children":[{"type":"text","value":"linkedin.com/in/beviryon-ngoulou"}]}]},{"type":"element","tag":"li","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Email"}]},{"type":"text","value":" : "},{"type":"element","tag":"a","props":{"href":"mailto:viryon.ngoulou@gmail.com"},"children":[{"type":"text","value":"viryon.ngoulou@gmail.com"}]}]}]},{"type":"element","tag":"h2","props":{"id":"contact"},"children":[{"type":"text","value":"📞 Contact"}]},{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Si vous souhaitez discuter de projets, de collaboration ou simplement échanger sur le développement web, n'hésitez pas à me contacter ! Je suis toujours ouvert aux nouvelles opportunités et aux discussions enrichissantes."}]},{"type":"element","tag":"hr","props":{},"children":[]},{"type":"element","tag":"p","props":{},"children":[{"type":"element","tag":"em","props":{},"children":[{"type":"text","value":"Merci d'avoir lu mon parcours ! J'espère que cet article vous a donné un aperçu de mon cheminement et de mes aspirations. N'hésitez pas à partager votre propre parcours en commentaire !"}]}]},{"type":"element","tag":"p","props":{},"children":[{"type":"element","tag":"strong","props":{},"children":[{"type":"text","value":"Prochain article"}]},{"type":"text","value":" : \"Développer une PWA pour une association sportive : FlexBeat\" - Un guide technique complet sur la création d'applications web progressives."}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[{"id":"mes-débuts-académiques","depth":2,"text":"🎓 Mes débuts académiques","children":[{"id":"leemi-une-école-qui-forme-lavenir-digital","depth":3,"text":"L'EEMI : une école qui forme l'avenir digital"},{"id":"master-tech-full-stack-approfondissement-technique","depth":3,"text":"Master Tech Full Stack : approfondissement technique"}]},{"id":"mon-expérience-professionnelle","depth":2,"text":"💼 Mon expérience professionnelle","children":[{"id":"développeur-full-stack-freelance-2024-présent","depth":3,"text":"Développeur Full Stack - Freelance (2024 - Présent)"},{"id":"chef-de-projet-digital-gexsi-2023-2024","depth":3,"text":"Chef de Projet Digital - GEXSI (2023 - 2024)"}]},{"id":"mes-projets-phares","depth":2,"text":"🚀 Mes projets phares","children":[{"id":"_1-trevixia-formation-plateforme-lms","depth":3,"text":"1. Trevixia Formation - Plateforme LMS"},{"id":"_2-site-agence-immobilière-mvb","depth":3,"text":"2. Site Agence Immobilière MVB"},{"id":"_3-flexbeat-association-sportive","depth":3,"text":"3. FlexBeat - Association Sportive"}]},{"id":"️-mon-stack-technique-actuel","depth":2,"text":"🛠️ Mon stack technique actuel","children":[{"id":"frontend","depth":3,"text":"Frontend"},{"id":"backend","depth":3,"text":"Backend"},{"id":"base-de-données","depth":3,"text":"Base de données"},{"id":"outils-et-déploiement","depth":3,"text":"Outils et déploiement"}]},{"id":"mes-objectifs-et-aspirations","depth":2,"text":"📈 Mes objectifs et aspirations","children":[{"id":"court-terme-2025","depth":3,"text":"Court terme (2025)"},{"id":"moyen-terme-2025-2026","depth":3,"text":"Moyen terme (2025-2026)"},{"id":"long-terme-2026","depth":3,"text":"Long terme (2026+)"}]},{"id":"mes-conseils-pour-les-futurs-développeurs","depth":2,"text":"💡 Mes conseils pour les futurs développeurs","children":[{"id":"_1-apprendre-continuellement","depth":3,"text":"1. Apprendre continuellement"},{"id":"_2-pratiquer-régulièrement","depth":3,"text":"2. Pratiquer régulièrement"},{"id":"_3-comprendre-les-besoins-métier","depth":3,"text":"3. Comprendre les besoins métier"},{"id":"_4-communiquer-efficacement","depth":3,"text":"4. Communiquer efficacement"},{"id":"_5-se-spécialiser-progressivement","depth":3,"text":"5. Se spécialiser progressivement"}]},{"id":"mes-valeurs-professionnelles","depth":2,"text":"🎯 Mes valeurs professionnelles","children":[{"id":"excellence-technique","depth":3,"text":"Excellence technique"},{"id":"innovation","depth":3,"text":"Innovation"},{"id":"collaboration","depth":3,"text":"Collaboration"},{"id":"impact","depth":3,"text":"Impact"}]},{"id":"liens-utiles","depth":2,"text":"🔗 Liens utiles"},{"id":"contact","depth":2,"text":"📞 Contact"}]}},"_type":"markdown","_id":"content:blog:parcours-eemi-fullstack.md","_source":"content","_file":"blog/parcours-eemi-fullstack.md","_stem":"blog/parcours-eemi-fullstack","_extension":"md"},"hash":"MntZ5XFiDy"}
+---
+title: "De EEMI à développeur fullstack : mon parcours"
+description: "Récit de mon parcours académique et professionnel, de mes études à l'EEMI jusqu'à mon rôle de développeur fullstack. Découvrez les défis, les apprentissages et les projets qui ont façonné ma carrière."
+date: 2025-01-27
+author: "Beviryon Issanga Ngoulou"
+tags: ["Career", "Education", "Fullstack", "Journey", "EEMI", "Personal"]
+image: "/blog/parcours-eemi-fullstack.jpg"
+---
+
+# De EEMI à développeur fullstack : mon parcours
+
+Bonjour ! Je suis **Beviryon Issanga Ngoulou**, développeur fullstack passionné par la création d'expériences web modernes. Dans cet article, je vais vous raconter mon parcours, de mes études à l'EEMI jusqu'à mon rôle actuel de développeur fullstack, en passant par mes expériences professionnelles et les projets qui ont marqué ma carrière.
+
+## 🎓 Mes débuts académiques
+
+### L'EEMI : une école qui forme l'avenir digital
+
+Mon parcours a commencé à l'**École Européenne des Métiers de l'Internet (EEMI)**, où j'ai suivi le **Bachelor 3 Chef de projets digitaux** de 2023 à 2024. Cette formation m'a donné une vision complète du monde digital et m'a permis d'acquérir des compétences essentielles :
+
+#### Compétences techniques acquises :
+- **Backend Flask** : Développement d'APIs robustes
+- **Framework SASS** : Styling avancé et architecture CSS
+- **Linux** : Administration système et environnement de développement
+- **Docker** : Containerisation et déploiement
+- **Git** : Gestion de versions et collaboration
+- **Modélisation UML** : Conception et architecture logicielle
+
+### Master Tech Full Stack : approfondissement technique
+
+Actuellement, je poursuis mes études avec le **Master Tech Full Stack**, une formation qui me permet d'approfondir mes compétences techniques :
+
+#### Technologies maîtrisées :
+- **Frontend** : Angular, React
+- **Backend** : Django, Node.js
+- **Mobile** : Flutter
+- **Système** : Go
+- **Architecture** : Architecture logicielle, DevOps
+- **Sécurité** : Cybersécurité
+
+## 💼 Mon expérience professionnelle
+
+### Développeur Full Stack - Freelance (2024 - Présent)
+
+En tant que développeur fullstack freelance, j'ai eu l'opportunité de travailler sur des projets variés et stimulants :
+
+#### Projets réalisés :
+- **Sites web corporate** pour des entreprises
+- **Applications web** avec authentification sécurisée
+- **Plateformes de formation** (LMS)
+- **Sites e-commerce** complets
+- **Applications PWA** pour associations
+
+#### Compétences développées :
+- **Gestion de projet** : De la conception à la livraison
+- **Communication client** : Compréhension des besoins métier
+- **Architecture technique** : Choix des technologies appropriées
+- **Déploiement** : Mise en production et maintenance
+
+### Chef de Projet Digital - GEXSI (2023 - 2024)
+
+Mon expérience chez GEXSI m'a permis de développer mes compétences en gestion de projet et en traitement de données :
+
+#### Responsabilités :
+- **Gestion des réclamations** et traitement des données
+- **Extraction et transformation** avec Talend
+- **Analyse des données** avec SQL et Excel
+- **Coordination d'équipe** et suivi des projets
+
+#### Apprentissages clés :
+- **Gestion de projet** : Méthodologies agiles et traditionnelles
+- **Traitement de données** : ETL et analyse
+- **Communication** : Interface entre technique et métier
+- **Résolution de problèmes** : Approche structurée
+
+## 🚀 Mes projets phares
+
+### 1. Trevixia Formation - Plateforme LMS
+
+**Technologies** : Next.js, TypeScript, TailwindCSS, Authentication, Database, JSON, Vercel
+
+Une plateforme de formation complète avec authentification sécurisée pour étudiants et administrateurs. Ce projet m'a permis d'approfondir mes compétences en développement fullstack et en gestion d'utilisateurs.
+
+**Défis relevés** :
+- Authentification dual (étudiants/administrateurs)
+- Interface moderne et responsive
+- Gestion sécurisée des sessions
+- Optimisation des performances
+
+### 2. Site Agence Immobilière MVB
+
+**Technologies** : Next.js, TypeScript, Strapi, PWA, Responsive Design
+
+Plateforme complète pour une agence immobilière avec interface moderne, navigation intuitive et fonctionnalités PWA. Ce projet a été l'occasion de travailler avec un CMS headless et de créer une expérience utilisateur optimale.
+
+**Points forts** :
+- Design professionnel et moderne
+- Fonctionnalités PWA avancées
+- Gestion complète des biens immobiliers
+- Interface responsive
+
+### 3. FlexBeat - Association Sportive
+
+**Technologies** : Vue.js, TypeScript, TailwindCSS, PWA, Vercel
+
+Site web moderne pour une association sportive à Brazzaville spécialisée dans le fitness, activités culturelles et cardio plein air. Ce projet m'a permis d'explorer les fonctionnalités PWA et de créer une interface énergique et engageante.
+
+**Innovations** :
+- Fonctionnalités PWA complètes
+- Design adapté au secteur sportif
+- Interface intuitive et moderne
+- Déploiement optimisé
+
+## 🛠️ Mon stack technique actuel
+
+### Frontend
+- **Next.js 14** : Framework React moderne avec App Router
+- **Vue.js 3** : Framework progressif et réactif
+- **TypeScript** : Typage statique pour plus de robustesse
+- **TailwindCSS** : Framework CSS utilitaire
+- **GSAP** : Animations avancées et scroll triggers
+
+### Backend
+- **Node.js** : Runtime JavaScript côté serveur
+- **Express** : Framework web minimaliste
+- **Django** : Framework Python puissant
+- **Flask** : Micro-framework Python léger
+
+### Base de données
+- **SQL** : Requêtes relationnelles
+- **Prisma** : ORM moderne pour TypeScript
+- **Sequelize** : ORM pour Node.js
+- **JSON** : Stockage de données léger
+
+### Outils et déploiement
+- **Git** : Contrôle de version
+- **Docker** : Containerisation
+- **Vercel** : Déploiement et hébergement
+- **Linux** : Administration système
+
+## 📈 Mes objectifs et aspirations
+
+### Court terme (2025)
+- **Approfondir React** : Server Components et nouvelles fonctionnalités
+- **Apprendre Rust** : Langage système moderne
+- **Contribuer à l'open source** : Participer à des projets communautaires
+- **Certifications** : Obtenir des certifications techniques
+
+### Moyen terme (2025-2026)
+- **Architecture microservices** : Maîtriser les architectures distribuées
+- **DevOps avancé** : CI/CD, monitoring, observabilité
+- **Leadership technique** : Encadrer des équipes de développement
+- **Innovation** : Développer des solutions innovantes
+
+### Long terme (2026+)
+- **Création d'entreprise** : Lancer ma propre startup tech
+- **Mentorat** : Former la nouvelle génération de développeurs
+- **Conférences** : Partager mes connaissances lors d'événements
+- **Impact social** : Utiliser la tech pour résoudre des problèmes sociaux
+
+## 💡 Mes conseils pour les futurs développeurs
+
+### 1. Apprendre continuellement
+La technologie évolue rapidement. Il est essentiel de rester à jour avec les dernières tendances et d'apprendre de nouvelles technologies régulièrement.
+
+### 2. Pratiquer régulièrement
+La théorie est importante, mais la pratique est cruciale. Créez des projets personnels, participez à des hackathons, contribuez à l'open source.
+
+### 3. Comprendre les besoins métier
+Un bon développeur ne se contente pas de coder. Il comprend les besoins métier et propose des solutions adaptées.
+
+### 4. Communiquer efficacement
+La communication est essentielle, que ce soit avec les clients, les collègues ou la communauté. Apprenez à expliquer des concepts techniques de manière accessible.
+
+### 5. Se spécialiser progressivement
+Commencez par être généraliste, puis spécialisez-vous dans des domaines qui vous passionnent.
+
+## 🎯 Mes valeurs professionnelles
+
+### Excellence technique
+Je m'efforce de livrer du code de qualité, bien documenté et maintenable. Chaque projet est une opportunité d'apprendre et de s'améliorer.
+
+### Innovation
+J'aime explorer de nouvelles technologies et approches pour résoudre des problèmes de manière créative et efficace.
+
+### Collaboration
+Je crois en la force du travail d'équipe et en l'importance de partager les connaissances pour faire progresser collectivement.
+
+### Impact
+Mon objectif est de créer des solutions qui ont un impact positif sur les utilisateurs et les entreprises.
+
+## 🔗 Liens utiles
+
+- **Portfolio** : [portfolio-beviryon.vercel.app](https://portfolio-beviryon.vercel.app/)
+- **GitHub** : [github.com/Beviryon](https://github.com/Beviryon)
+- **LinkedIn** : [linkedin.com/in/beviryon-ngoulou](https://linkedin.com/in/beviryon-ngoulou)
+- **Email** : viryon.ngoulou@gmail.com
+
+## 📞 Contact
+
+Si vous souhaitez discuter de projets, de collaboration ou simplement échanger sur le développement web, n'hésitez pas à me contacter ! Je suis toujours ouvert aux nouvelles opportunités et aux discussions enrichissantes.
+
+---
+
+*Merci d'avoir lu mon parcours ! J'espère que cet article vous a donné un aperçu de mon cheminement et de mes aspirations. N'hésitez pas à partager votre propre parcours en commentaire !*
+
+**Prochain article** : "Développer une PWA pour une association sportive : FlexBeat" - Un guide technique complet sur la création d'applications web progressives.

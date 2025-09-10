@@ -147,6 +147,10 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       routes: ['/sitemap.xml', '/robots.txt']
+    },
+    // Vercel-specific configuration
+    experimental: {
+      wasm: true
     }
   },
 
