@@ -757,6 +757,8 @@ const typeText = () => {
 }
 
 // Initialize animations
+let localeInterval: NodeJS.Timeout | null = null
+
 onMounted(() => {
   // Create particles
   createParticles(particleContainer.value, 50)
@@ -801,15 +803,28 @@ onMounted(() => {
     }
     
     // Check for locale changes periodically
-    setInterval(updateLocale, 1000)
+    localeInterval = setInterval(updateLocale, 1000)
     
     // Also listen for storage events
     window.addEventListener('storage', updateLocale)
+  }
+})
+
+onUnmounted(() => {
+  if (process.client) {
+    // Cleanup interval
+    if (localeInterval) {
+      clearInterval(localeInterval)
+    }
     
-    // Cleanup
-    onUnmounted(() => {
-      window.removeEventListener('storage', updateLocale)
-    })
+    // Cleanup storage event listener
+    const updateLocale = () => {
+      const newLocale = localStorage.getItem('locale') || 'fr'
+      if (newLocale !== currentLocale.value) {
+        currentLocale.value = newLocale
+      }
+    }
+    window.removeEventListener('storage', updateLocale)
   }
 })
 

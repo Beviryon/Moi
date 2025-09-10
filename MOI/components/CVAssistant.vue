@@ -277,6 +277,8 @@ const quickActions = computed(() => [
 ])
 
 // Initialize with welcome popup
+let localeInterval: NodeJS.Timeout | null = null
+
 onMounted(() => {
   // Check if welcome has been shown before
   if (process.client) {
@@ -300,6 +302,47 @@ onMounted(() => {
         addMessage('assistant', t('assistantGuide'))
       }, 4000)
     }
+  }
+  
+  // Auto-open assistant after 8 seconds
+  setTimeout(() => {
+    if (!isOpen.value) {
+      hasNewMessage.value = true
+    }
+  }, 8000)
+  
+  // Update locale when it changes
+  if (process.client) {
+    const updateLocale = () => {
+      const newLocale = localStorage.getItem('locale') || 'fr'
+      if (newLocale !== currentLocale.value) {
+        currentLocale.value = newLocale
+      }
+    }
+    
+    // Check for locale changes periodically
+    localeInterval = setInterval(updateLocale, 1000)
+    
+    // Also listen for storage events
+    window.addEventListener('storage', updateLocale)
+  }
+})
+
+onUnmounted(() => {
+  if (process.client) {
+    // Cleanup interval
+    if (localeInterval) {
+      clearInterval(localeInterval)
+    }
+    
+    // Cleanup storage event listener
+    const updateLocale = () => {
+      const newLocale = localStorage.getItem('locale') || 'fr'
+      if (newLocale !== currentLocale.value) {
+        currentLocale.value = newLocale
+      }
+    }
+    window.removeEventListener('storage', updateLocale)
   }
 })
 
@@ -485,33 +528,4 @@ const formatTime = (date: Date): string => {
   })
 }
 
-// Auto-open assistant after 8 seconds
-onMounted(() => {
-  setTimeout(() => {
-    if (!isOpen.value) {
-      hasNewMessage.value = true
-    }
-  }, 8000)
-  
-  // Update locale when it changes
-  if (process.client) {
-    const updateLocale = () => {
-      const newLocale = localStorage.getItem('locale') || 'fr'
-      if (newLocale !== currentLocale.value) {
-        currentLocale.value = newLocale
-      }
-    }
-    
-    // Check for locale changes periodically
-    setInterval(updateLocale, 1000)
-    
-    // Also listen for storage events
-    window.addEventListener('storage', updateLocale)
-    
-    // Cleanup
-    onUnmounted(() => {
-      window.removeEventListener('storage', updateLocale)
-    })
-  }
-})
 </script>
