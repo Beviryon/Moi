@@ -164,3 +164,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If you found this project helpful, please give it a star on GitHub!
+
+## 🔄 Latest Update
+- Fixed Vercel deployment issues (removed postinstall script)
+- Added .npmrc for proper permissions
+- Optimized build configuration
