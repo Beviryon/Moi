@@ -592,12 +592,12 @@ const toggleShowAllProjects = () => {
 const projects = [
   {
     id: 1,
-    title: 'Site Agence Immobilière MVB',
-    description: 'Plateforme complète pour une agence immobilière avec interface moderne, navigation intuitive et fonctionnalités PWA. Design professionnel avec section héro, popup d\'installation mobile et gestion complète des biens immobiliers.',
-    technologies: ['Next.js', 'TypeScript', 'Strapi', 'PWA', 'Responsive Design'],
+    title: 'Marketplace ryonva',
+    description: 'Marketplace e-commerce ryonva est une plateforme de e-commerce avec gestion des produits, des commandes, des utilisateurs et des paiements. Interface moderne avec design responsive.',
+    technologies: ['Vue.js', 'TypeScript', 'TailwindCSS', 'Vercel'],
     github: 'https://github.com/beviryon',
-    demo: 'https://mvb-site.vercel.app/',
-    image: '/projects/mvb-immobilier.jpg'
+    demo: 'https://ryonva.com',
+    image: '/projects/marketplace-ecommerce.png'
   },
   {
     id: 2,
