@@ -726,7 +726,7 @@ const experiences = [
     company: 'Eurexo sas',
     period: 'Sept 2023 - Juillet 2024',
     description: 'Développement d\'applications web et participation à des projets de développement',
-    technologies: ['JavaScript', 'Node.js', 'API REST', 'SQL'],
+    technologies: ['JavaScript', 'Node.js', 'API REST', 'SQL', 'Python', 'Flask', 'Git', 'Linux'],
     icon: 'heroicons:code-bracket'
   },
   {
