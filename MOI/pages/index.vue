@@ -592,15 +592,24 @@ const toggleShowAllProjects = () => {
 const projects = [
   {
     id: 1,
-    title: 'Marketplace ryonva',
-    description: 'Marketplace e-commerce ryonva est une plateforme de e-commerce avec gestion des produits, des commandes, des utilisateurs et des paiements. Interface moderne avec design responsive.',
-    technologies: ['Vue.js', 'TypeScript', 'TailwindCSS', 'Vercel'],
-    github: 'https://github.com/beviryon',
-    demo: 'https://ryonva.com',
-    image: '/projects/marketplace-ecommerce.png'
+    title: 'IDE local & intégration LLM 00',
+    description: 'Je me suis fabriqué mon propre IDE local avec l\'IA (Ollama) pour automatiser mes tâches de développement.',
+    technologies: ['Python (Flask)', 'Ollama', 'Vector Databases'],
+    github: 'https://github.com/Beviryon',
+    demo: 'https://github.com/Beviryon/H-code',
+    image: '/projects/H-code.png'
   },
   {
     id: 2,
+    title: 'Marketplace ryonva',
+    description: 'Marketplace e-commerce ryonva est une plateforme de e-commerce avec gestion des produits, des commandes, des utilisateurs et des paiements. Interface moderne avec design responsive.',
+    technologies: ['react.js', 'Supabase', 'TailwindCSS', 'ovh VPS'],
+    github: 'https://github.com/Beviryon',
+    demo: 'https://ryonva.com',
+    image: '/projects/ryonva.png'
+  },
+  {
+    id: 3,
     title: 'FlexBeat - Association Sportive',
     description: 'Site web moderne pour une association sportive à Brazzaville spécialisée dans le fitness, activités culturelles et cardio plein air. Interface intuitive avec fonctionnalités PWA et design responsive.',
     technologies: ['Vue.js', 'TypeScript', 'TailwindCSS', 'PWA', 'Vercel'],
@@ -610,7 +619,7 @@ const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: 'Trevixia - Solutions Digitales',
     description: 'Site web corporate pour une entreprise spécialisée dans les solutions digitales et l\'automatisation pour PME. Interface moderne avec dégradé purple/blue, simulateur de devis et chat widget intégré.',
     technologies: ['Next.js', 'TypeScript', 'TailwindCSS', 'Chat Widget', 'Responsive Design'],
@@ -619,7 +628,7 @@ const projects = [
     image: '/projects/trevixia.png'
   },
   {
-    id: 4,
+    id: 5,
     title: 'Trevixia Formation - Plateforme LMS',
     description: 'Plateforme de formation complète avec gestion des utilisateurs, cours interactifs, suivi des notes et planning. Interface moderne avec authentification sécurisée pour étudiants et administrateurs.',
     technologies: ['Next.js', 'TypeScript', 'TailwindCSS', 'Authentication', 'Database', 'JSON', 'Vercel'],
@@ -628,7 +637,7 @@ const projects = [
     image: '/projects/trevixia-formation.png'
   },
   {
-    id: 5,
+    id: 6,
     title: 'Site E-commerce',
     description: 'Plateforme e-commerce complète avec panier, paiement et gestion des commandes',
   technologies: [ 'HTML5', 'CSS3', 'Firebase', 'Node.js', 'Express', 'Sequelize', 'SQL'],
@@ -637,7 +646,7 @@ const projects = [
     image: '/projects/ecommerce.png'
   },
   {
-    id: 6,
+    id: 7,
     title: 'Site Autofacturation',
     description: 'Application web pour la gestion et génération automatique de factures',
     technologies: ['React.js', 'Node.js', 'Express', 'Sequelize', 'SQL'],
@@ -646,7 +655,7 @@ const projects = [
     image: '/projects/autofacturation.png'
   },
   {
-    id: 7,
+    id: 8,
     title: 'Gestion Réclamations GEXSI',
     description: 'Projet entreprise : Extraction et transformation de données avec Talend',
     technologies: ['SQL', 'Talend', 'Excel', 'ETL'],
@@ -655,7 +664,7 @@ const projects = [
     image: '/projects/gexsi.png'
   },
   {
-    id: 8,
+    id: 9,
     title: 'Voir plus de projets',
     description: 'Découvrez tous mes autres projets, contributions open-source et réalisations sur mon profil GitHub. Plus de 20+ projets disponibles !',
     technologies: ['GitHub', 'Open Source', 'Divers projets', 'Contributions'],
