@@ -544,8 +544,6 @@ const particleContainer = ref<HTMLElement>()
 
 // Skills data
 const skills = [
-  { name: 'HTML5', icon: 'heroicons:code-bracket', level: 'Expert' },
-  { name: 'CSS3', icon: 'heroicons:paint-brush', level: 'Expert' },
   { name: 'JavaScript', icon: 'heroicons:code-bracket', level: 'Expert' },
   { name: 'Vue.js', icon: 'heroicons:cube', level: 'Intermediate' },
   { name: 'React.js', icon: 'heroicons:cube', level: 'Advanced' },
@@ -555,7 +553,9 @@ const skills = [
   { name: 'Python', icon: 'heroicons:wrench-screwdriver', level: 'Intermediate' },
   { name: 'SQL', icon: 'heroicons:circle-stack', level: 'Intermediate' },
   { name: 'Git', icon: 'heroicons:code-branch', level: 'Expert' },
-  { name: 'Docker', icon: 'heroicons:swatch', level: 'Intermediate' }
+  { name: 'Docker', icon: 'heroicons:swatch', level: 'Intermediate' },
+  { name: 'HTML5', icon: 'heroicons:code-bracket', level: 'Expert' },
+  { name: 'CSS3', icon: 'heroicons:paint-brush', level: 'Expert' }
 ]
 
 // Skills display logic
@@ -619,6 +619,24 @@ const projects = [
   },
   {
     id: 4,
+    title: 'Be-candidature - Plateforme de candidature',
+    description: 'Une platforme suivi des canditatures pour ceux qui sont en recherche d\'emploi. Une plateforme de gestion des candidatures avec un système de notification et de suivi des candidatures.',
+    technologies: ['React.js', 'Firebase', 'TailwindCSS', 'PWA', 'Vercel'],
+    github: 'https://github.com/beviryon',
+    demo: 'https://be-candidature-viryon.vercel.app/',
+    image: '/projects/becandidature.png'
+  },
+  {
+    id: 5,
+    title: 'FleaxbeatApp',
+    description: 'Une applications sportive avec une interface moderne et responsive. Une application de gestion des activités sportives avec un système de notification et de suivi des activités.',
+    technologies: ['React.js', 'Python', 'Django', 'PWA', 'VPS'],
+    github: 'https://github.com/beviryon',
+    demo: 'https://be-candidature-viryon.vercel.app/',
+    image: '/projects/AppFlexbeat.png'
+  },
+  {
+    id: 5,
     title: 'FlexBeat - Association Sportive',
     description: 'Site web moderne pour une association sportive à Brazzaville spécialisée dans le fitness, activités culturelles et cardio plein air. Interface intuitive avec fonctionnalités PWA et design responsive.',
     technologies: ['Vue.js', 'TypeScript', 'TailwindCSS', 'PWA', 'Vercel'],
@@ -627,7 +645,7 @@ const projects = [
     image: '/projects/flexbeat.png'
   },
   {
-    id: 5,
+    id: 6,
     title: 'Site Agence Immobilière MVB',
     description: 'Plateforme complète pour une agence immobilière avec interface moderne, navigation intuitive et fonctionnalités PWA. Design professionnel avec section héro, popup d\'installation mobile et gestion complète des biens immobiliers.',
     technologies: ['Next.js', 'TypeScript', 'Strapi', 'PWA', 'Responsive Design'],
@@ -637,7 +655,7 @@ const projects = [
   },
 
   {
-    id: 6,
+    id: 7,
     title: 'Trevixia - Solutions Digitales',
     description: 'Site web corporate pour une entreprise spécialisée dans les solutions digitales et l\'automatisation pour PME. Interface moderne avec dégradé purple/blue, simulateur de devis et chat widget intégré.',
     technologies: ['Next.js', 'TypeScript', 'TailwindCSS', 'Chat Widget', 'Responsive Design'],
@@ -646,7 +664,7 @@ const projects = [
     image: '/projects/trevixia.png'
   },
   {
-    id: 7,
+    id: 8,
     title: 'Trevixia Formation - Plateforme LMS',
     description: 'Plateforme de formation complète avec gestion des utilisateurs, cours interactifs, suivi des notes et planning. Interface moderne avec authentification sécurisée pour étudiants et administrateurs.',
     technologies: ['Next.js', 'TypeScript', 'TailwindCSS', 'Authentication', 'Database', 'JSON', 'Vercel'],
@@ -655,7 +673,7 @@ const projects = [
     image: '/projects/trevixia-formation.png'
   },
   {
-    id: 8,
+    id: 9,
     title: 'Site E-commerce',
     description: 'Plateforme e-commerce complète avec panier, paiement et gestion des commandes',
   technologies: [ 'HTML5', 'CSS3', 'Firebase', 'Node.js', 'Express', 'Sequelize', 'SQL'],
@@ -664,7 +682,7 @@ const projects = [
     image: '/projects/ecommerce.png'
   },
   {
-    id: 9,
+    id: 10,
     title: 'Site Autofacturation',
     description: 'Application web pour la gestion et génération automatique de factures',
     technologies: ['React.js', 'Node.js', 'Express', 'Sequelize', 'SQL'],
@@ -673,7 +691,7 @@ const projects = [
     image: '/projects/autofacturation.png'
   },
   {
-    id: 10,
+    id: 11,
     title: 'Gestion Réclamations GEXSI',
     description: 'Projet entreprise : Extraction et transformation de données avec Talend',
     technologies: ['SQL', 'Talend', 'Excel', 'ETL'],
@@ -682,7 +700,7 @@ const projects = [
     image: '/projects/gexsi.png'
   },
   {
-    id: 11,
+    id: 12,
     title: 'Voir plus de projets',
     description: 'Découvrez tous mes autres projets, contributions open-source et réalisations sur mon profil GitHub. Plus de 20+ projets disponibles !',
     technologies: ['GitHub', 'Open Source', 'Divers projets', 'Contributions'],
@@ -695,6 +713,14 @@ const projects = [
 
 // Experience data
 const experiences = [
+  {
+    title: 'Développeur fullstack',
+    company: 'Independent',
+    period: 'Janvier 2026 - Aujourd\'hui',
+    description: 'Développement d\'applications web et participation à des projets de développement. Je travaille sur des projets variés et stimulants.',
+    technologies: ['JavaScript', 'Node.js', 'API REST', 'SQL', 'Vue.js', 'React.js', 'Angular', 'Django', 'Flask', 'Docker', 'Git', 'Linux'],
+    icon: 'heroicons:code-bracket'
+  },
   {
     title: 'Développeur web en Alternance',
     company: 'Eurexo sas',
